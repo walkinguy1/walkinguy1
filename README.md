@@ -18,6 +18,8 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+<img src="https://komarev.com/ghpvc/?username=walkinguy1&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge" alt="Profile views" />
+
 ---
 [![](https://visitcount.itsvg.in/api?id=walkinguy1&icon=0&color=0)](https://visitcount.itsvg.in)
 
